@@ -5,7 +5,7 @@ import Image from "next/image";
 export default function Home() {
 	return (
 		<main className="bg-[#1F1F1F] text-white">
-			<div className="container mx-auto max-w-4xl px-4">
+			<div className="container mx-auto max-w-6xl px-4">
 				<a
 					href="https://twitter.com/PassLockerExt"
 					target="_blank"
